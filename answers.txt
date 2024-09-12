@@ -10,3 +10,7 @@ Answer: It can be used in healthcare to detect health issues early on based on d
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging keeps all the commit history, while rebasing rewrites merging history to keep it more organized.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my AI and machine learning experience.
